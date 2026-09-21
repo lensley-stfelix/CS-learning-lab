@@ -11,6 +11,7 @@ This folder documents my progression through Java fundamentals while studying co
 - Methods, parameters, and return values
 - `while`, `do...while`, standard `for`, and enhanced `for` loops
 - Iterating over arrays and collections
+- Classes, constructors, objects, accessors, and object references
 - Small console projects
 
 ## Structure
@@ -20,6 +21,7 @@ This folder documents my progression through Java fundamentals while studying co
 - `methods/` — Method calls, parameters, return values, and method composition
 - `loops/` — `while`, `do...while`, `for`, and enhanced `for` loop exercises
 - `arrays/` — Arrays, multidimensional arrays, sorting, searching, and collections
+- `classes/` — Classes, constructors, object arrays, accessors, validation, and object references
 - `projects/` — Larger exercises that combine multiple concepts
 
 These are learning exercises and experiments rather than production applications. The goal is to document progression, modifications, and understanding over time.
